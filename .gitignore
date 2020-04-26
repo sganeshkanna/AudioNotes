@@ -1,0 +1,10 @@
+AudioRecorder/*.iml
+AudioRecorder/.gradle
+AudioRecorder/local.properties
+AudioRecorder/.idea/
+AudioRecorder/.DS_Store
+AudioRecorder/build
+AudioRecorder/app/build
+AudioRecorder/captures
+AudioRecorder/.externalNativeBuild
+AudioRecorder/.cxx
